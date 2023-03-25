@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
     const primaryTextColor = Color(0xff1d2830);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'MyTODO app',
+      title: 'Myworld',
       theme: ThemeData(
         textTheme: GoogleFonts.poppinsTextTheme(
             const TextTheme(headline6: TextStyle(fontWeight: FontWeight.bold))),
